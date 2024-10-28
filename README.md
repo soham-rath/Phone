@@ -1,3 +1,3 @@
 Calculator and Games using Python
 
-Run the main.py and have fun!
+Run the main.py file and have fun!
